@@ -1,0 +1,2267 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Undefined",1-2-3 TV (270p)
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="Undefined",3sat (720p) [Geo-blocked]
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="atv.de" tvg-logo="https://i.imgur.com/tupATym.png" group-title="Undefined",a.tv (1080p) [Not 24/7]
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de" tvg-logo="https://i.imgur.com/QoDpnKg.png" group-title="Music",ADRIA Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Daily Animated (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Daily Live Action (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream_de.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Home Movies (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/test-2/stream_de.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Mr. Pickles (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_de.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Primal (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Squidbillies (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_de.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Superjail! (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream_de.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Tim and Eric (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_de.m3u8
+#EXTINF:-1 tvg-id="AlexBerlin.de" tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="Undefined",Alex Berlin (1080p) [Not 24/7]
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AllgauTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="Undefined",Allgäu TV (1080p)
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-logo="https://i.imgur.com/3JriZGR.png" group-title="Undefined",Altenburg TV (1080p)
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVEurope.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Europe (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnixePlus.de" tvg-logo="https://i.imgur.com/hvGJ2oa.png" group-title="Undefined",Anixe + (360p)
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 tvg-id="AnixeHDSerie.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/512px-Anixe_HD.svg.png" group-title="Undefined",Anixe HD Serie (360p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" group-title="Undefined",ARD-alpha (720p)
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="AristoTV.de" tvg-logo="https://i.imgur.com/DLVjeno.png" group-title="Undefined",Aristo TV (360p)
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+#EXTINF:-1 tvg-id="ARTEGermany.de" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="Entertainment",ARTE (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-id="AstroTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/19414-1.png" group-title="Undefined",AstroTV (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCwS3E2NaN3uorr9wf2_i6Cg.m3u8
+#EXTINF:-1 tvg-id="AugsburgTV.de" tvg-logo="https://i.imgur.com/27AKMUL.png" group-title="Undefined",Augsburg TV (1080p)
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="Undefined",Baden TV (1080p) [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="BadenTVSud.de" tvg-logo="https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png" group-title="Undefined",Baden TV Süd (480p)
+https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTV.de" tvg-logo="https://i.imgur.com/lVhxh1R.png" group-title="Undefined",Bibel TV (720p)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVImpuls.de" tvg-logo="https://i.imgur.com/k4tbW3W.png" group-title="Undefined",Bibel TV Impuls (720p)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVMusik.de" tvg-logo="https://i.imgur.com/yIqOcP5.png" group-title="Music",Bibel TV Musik (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BLKRegionalTV.de" tvg-logo="https://i.imgur.com/JLgnPG1.png" group-title="Undefined",BLK TV (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-logo="https://i.imgur.com/xzJDNs5.png" group-title="Undefined",BR Fernsehen Nord (720p) [Geo-blocked]
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-logo="https://i.imgur.com/wfqDL6Z.png" group-title="Undefined",BR Fernsehen Süd (720p)
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="CBSRealityEMEA.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CBS_Reality.png/512px-CBS_Reality.png" group-title="Entertainment",CBS Reality EMEA
+http://st02.lab.cho01.iptv.grapesc.cz/720-tv-stb.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de" tvg-logo="https://i.imgur.com/4SEAbVf.png" group-title="Undefined",Chemnitz Fernsehen (1080p)
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="Business" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",CNBC Europe (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DaVinci.de" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Undefined",Da Vinci
+http://sc.id-tv.kz/DaVinci_38_39.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://i.imgur.com/tGHLJSF.png" group-title="Undefined",Das Erste (720p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-id="DASDING908.de" tvg-logo="https://i.imgur.com/rR44kv4.png" group-title="Undefined",DASDING 90.8 (720p)
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png" group-title="Undefined",Deluxe Dance (1080p) [Geo-blocked]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeFlashback.de" tvg-logo="https://i.imgur.com/EjZa6eK.png" group-title="Undefined",Deluxe Flashback (1080p) [Geo-blocked]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeLoungeHD.de" tvg-logo="https://i.imgur.com/DnMzWiG.png" group-title="Music",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Music",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeRap.de" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Undefined",Deluxe Rap (1080p) [Geo-blocked]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="DerAktionaerTV.de" tvg-logo="https://i.imgur.com/5bHrYoD.png" group-title="Business",Der Aktionär TV (720p)
+https://live2.telvi.de/hls/aktionaertv.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-logo="https://i.imgur.com/MGKbHPT.png" group-title="Music",Deutsches Musik Fernsehen (540p) [Not 24/7]
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de" tvg-logo="https://i.imgur.com/rnvprGj.png" group-title="Undefined",Dresden Fernsehen (1080p) [Not 24/7]
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",DW (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:-1 tvg-id="DWDeutschPlus.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Deutsch+ (1080p) [Geo-blocked]
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+#EXTINF:-1 tvg-id="earthTV.de" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="Education;Outdoor;Relax",earthTV (1080p)
+https://ythls.onrender.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
+#EXTINF:-1 tvg-id="emsTVLingen.de" tvg-logo="https://i.imgur.com/Yo1GMku.png" group-title="Undefined",ems TV Lingen (280p)
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-logo="https://i.imgur.com/6FHl9B1.png" group-title="Undefined",Erz-TV Stollberg (576p)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroAlTV.de" tvg-logo="https://i.imgur.com/0GrDAWx.png" group-title="Undefined",EuroAl TV (720p)
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Europe (720p) [Not 24/7]
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNGermany.de" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="Religious",EWTN Germany (720p)
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (1080p)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Filstalwelle.de" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="Undefined",Filstalwelle Göppingen (576p)
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="https://i.imgur.com/1uoP10V.png" group-title="Undefined",Finest TV (288p) [Not 24/7]
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de" tvg-logo="https://i.imgur.com/ze04puX.png" group-title="Music",FOLX Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
+#EXTINF:-1 tvg-id="FrankenFernsehen.de" tvg-logo="https://i.imgur.com/3pGGLLD.png" group-title="Undefined",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="FriesischerRundfunkFriedeburg.de" tvg-logo="https://i.imgur.com/jynL4Xl.png" group-title="Undefined",Friesischer Rundfunk Friedeburg (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCVwFnSaCfUD_UbkmWuZZ7FA.m3u8
+#EXTINF:-1 tvg-id="h1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/512px-H1-logo.svg.png" group-title="General",H1 Fernsehen (1080p)
+https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Hamburg1.de" tvg-logo="https://i.imgur.com/df3yY8W.png" group-title="Undefined",Hamburg 1 (720p)
+https://hamburg1-jw.cdn.vustreams.com/live/09120205-afa3-4048-a965-318eb0cacffc/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Handystar.de" tvg-logo="https://i.imgur.com/oMIygVf.png" group-title="Undefined",Handystar (404p)
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 tvg-id="HauptstadtTV.de" tvg-logo="https://i.imgur.com/7hutYJn.png" group-title="Undefined",Hauptstadt.TV (Potsdam) (720p) [Not 24/7]
+https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+#EXTINF:-1 tvg-id="HealthTV.de" tvg-logo="https://i.imgur.com/QDUIH2U.png" group-title="Lifestyle",Health TV (720p)
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelGerman.de" tvg-logo="https://i.imgur.com/I9BbJR0.png" group-title="Religious",Hope Channel German (1080p)
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Outdoor",Horse and Country Free
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="HRFernsehen.de" tvg-logo="https://i.imgur.com/SQ18XMT.png" group-title="Undefined",hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="HSE24Extra.de" tvg-logo="https://i.imgur.com/JBStmYu.png" group-title="Undefined",HSE24 Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 tvg-id="HSE24Trend.de" tvg-logo="https://i.imgur.com/cWkCWPY.png" group-title="Undefined",HSE24 Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 tvg-id="HSE.de" tvg-logo="https://i.imgur.com/IecRNCk.png" group-title="Undefined",HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-id="JenaTV.de" tvg-logo="https://i.imgur.com/o3D4bQI.png" group-title="Undefined",JenaTV
+https://stream4.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Juwelo.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24491-2.png" group-title="Undefined",Juwelo (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 tvg-id="KTV.de" tvg-logo="https://i.imgur.com/2Fhbmdk.png" group-title="Undefined",K-TV (720p)
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="KanalAvrupa.de" tvg-logo="https://i.imgur.com/dJocxUQ.png" group-title="Undefined",Kanal Avrupa
+http://51.15.2.151/hls/kanalavrupa.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-logo="https://i.imgur.com/CVJWiM0.png" group-title="Undefined",KaufBei TV (576p)
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+#EXTINF:-1 tvg-id="KhaterehTV.de" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khatereh-tv-de.png" group-title="Undefined",Khatereh TV (720p)
+https://khaterehhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KIKA.de" tvg-logo="https://i.imgur.com/sDa6LFn.png" group-title="Undefined",KiKA (1080p) [Geo-blocked]
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="KOKFightsTV.lt" tvg-logo="https://kokfights.com/wp-content/uploads/2018/05/kok_logo.jpg" group-title="Sports",KOK Fights TV (1080p) [Not 24/7]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KulturMD.de" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Undefined",KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="KWTVWildau.de" tvg-logo="https://i.imgur.com/zSklDLl.png" group-title="Undefined",KW TV Wildau (720p) [Not 24/7]
+https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24496-1.png" group-title="Undefined",L-TV (720p)
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1 tvg-id="Lausitzwelle.de" tvg-logo="https://i.imgur.com/4kYF4bK.png" group-title="Undefined",Lausitzwelle (1080p)
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de" tvg-logo="https://i.imgur.com/easmJUw.png" group-title="Undefined",Leipzig Fernsehen (1080p)
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="LightChannel.de" tvg-logo="https://i.imgur.com/0OmBlfE.png" group-title="Undefined",Light Channel (576p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 tvg-id="MagentaMusik360.de" tvg-logo="https://i.imgur.com/R74gG7U.png" group-title="Music",Magenta Musik 360 (1080p)
+https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8
+#EXTINF:-1 tvg-id="MDF1.de" tvg-logo="https://i.imgur.com/IFGXK6u.png" group-title="Undefined",MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehenSachsen.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" group-title="Undefined",MDR Fernsehen Sachsen [Geo-blocked]
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehenSachsenAnhalt.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" group-title="Undefined",MDR Fernsehen Sachsen-Anhalt [Geo-blocked]
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehenThuringen.de" tvg-logo="https://i.imgur.com/Vt31dQo.png" group-title="Undefined",MDR Fernsehen Thüringen [Geo-blocked]
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Sports",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Germany [Geo-blocked]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+#EXTINF:-1 tvg-id="MunchenTV.de" tvg-logo="https://i.imgur.com/lt7xNWW.png" group-title="Undefined",München TV (1080p) [Not 24/7]
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Muxxtv.de" tvg-logo="https://i.imgur.com/bUcXxDh.png" group-title="Undefined",Muxx.tv (1080p)
+https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="MyTVplus.de" tvg-logo="https://i.imgur.com/zA22TQH.png" group-title="Entertainment",MyTVplus (Dresden) (576p)
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",n-tv [Geo-blocked]
+https://pliventv-a.akamaihd.net/live/ntvhomelive/ntvhomelive.isml/.m3u8
+#EXTINF:-1 tvg-id="naheTV.de" tvg-logo="https://i.imgur.com/w3yzJoK.png" group-title="Undefined",naheTV (720p)
+https://s.ok54.de/nahetv/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenHamburg.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined",NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenMecklenburgVorpommern.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined",NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenNiedersachsen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined",NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenSchleswigHolstein.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined",NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-id="NickGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png" group-title="Kids",Nick Germany (1080p) [Geo-blocked]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTV.de" tvg-logo="https://i.imgur.com/9uaMgTk.png" group-title="Undefined",Niederbayern TV (720p)
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de" tvg-logo="https://i.imgur.com/mAaIh3C.png" group-title="Undefined",Niederbayern TV Deggendorf & Straubing (1080p)
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de" tvg-logo="https://i.imgur.com/5sHzZAh.png" group-title="Undefined",Niederbayern TV Landshut (1080p) [Not 24/7]
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVPassau.de" tvg-logo="https://i.imgur.com/0wnFhNi.png" group-title="Undefined",Niederbayern TV Passau (1080p)
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="noa4Hamburg.de" tvg-logo="https://i.imgur.com/7A2LRKI.png" group-title="Undefined",Noa 4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="noa4Norderstedt.de" tvg-logo="https://i.imgur.com/941nrGb.png" group-title="Undefined",Noa 4 Norderstedt (1080p)
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Undefined",NRWision (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OberlausitzTV.de" tvg-logo="https://i.imgur.com/A7WA7dC.png" group-title="Undefined",Oberlausitz TV (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-logo="https://i.imgur.com/ISI5KDd.png" group-title="Undefined",Oberpfalz TV (1080p)
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Oeins.de" tvg-logo="https://i.imgur.com/bWQifDE.png" group-title="Undefined",oeins (Oldenburg) (1080p) [Not 24/7]
+https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1 tvg-id="OFTVOffenbach.de" tvg-logo="https://i.imgur.com/WAcxCJr.png" group-title="Undefined",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 tvg-id="OK4.de" tvg-logo="https://i.imgur.com/cUlMOlt.png" group-title="Undefined",OK4 (720p)
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OK54.de" tvg-logo="https://ok54.de/wp-content/uploads/2013/04/ok54_logo_schwarz.png" group-title="Undefined",OK54 (720p)
+https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de" tvg-logo="https://i.imgur.com/nx4Wc8l.png" group-title="Undefined",OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKFlensburg.de" tvg-logo="https://i.imgur.com/NPbfgQC.png" group-title="Undefined",OK Flensburg (576p)
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 tvg-id="OKFulda.de" tvg-logo="https://i.imgur.com/igZ9sx2.png" group-title="Undefined",OK Fulda (720p)
+https://s.ok54.de/mok-fu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKGiessen.de" tvg-logo="https://i.imgur.com/X3JcUGy.png" group-title="Undefined",OK Gießen (360p) [Not 24/7]
+https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKaiserslautern.de" tvg-logo="https://i.imgur.com/MRrETTh.png" group-title="Undefined",OK Kaiserslautern (720p) [Not 24/7]
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKassel.de" tvg-logo="https://i.imgur.com/igZ9sx2.png" group-title="Undefined",OK Kassel (720p) [Not 24/7]
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKiel.de" tvg-logo="https://i.imgur.com/eToHabX.png" group-title="Undefined",OK Kiel (576p)
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-id="OKMagdeburg.de" tvg-logo="https://i.imgur.com/zftoymR.png" group-title="Undefined",OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTVMainz.de" tvg-logo="https://i.imgur.com/XvK94tN.png" group-title="Undefined",OK Mainz (720p)
+https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" tvg-logo="https://i.imgur.com/QfzdESc.png" group-title="Undefined",OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKRheinMain.de" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="Undefined",OK Rhein-Main (576p) [Not 24/7]
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1 tvg-id="OKRheinLokalWorms.de" tvg-logo="https://i.imgur.com/6tAimWV.png" group-title="Undefined",OK RheinLokal (Worms) (720p) [Not 24/7]
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-logo="https://i.imgur.com/jDmiTOS.png" group-title="Undefined",OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de" tvg-logo="https://i.imgur.com/s9wo85l.png" group-title="Undefined",OK Stendal (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSuedwestpfalz.de" tvg-logo="https://i.imgur.com/lhlQzLg.png" group-title="Undefined",OK Suedwestpfalz (720p) [Not 24/7]
+https://s.ok54.de/okswp/test/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTrier.de" tvg-logo="https://i.imgur.com/nq32HIs.png" group-title="Undefined",OK Trier (720p)
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de" tvg-logo="https://i.imgur.com/bjTajXb.png" group-title="Undefined",OK Weinstraße (Neustadt) (432p)
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWernigerode.de" tvg-logo="https://i.imgur.com/3gQvhSy.png" group-title="Undefined",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKLudwigshafen.de" tvg-logo="https://i.imgur.com/NjaDMyd.png" group-title="Undefined",OK-TV Ludwigshafen (720p)
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="oldenburgeins.de" tvg-logo="https://i.imgur.com/HQs5No3.png" group-title="Undefined",oldenburg eins (1080p) [Not 24/7]
+https://oeins.de/live/studio.m3u8
+#EXTINF:-1 tvg-id="OneMusicTelevision.de" tvg-logo="https://i.imgur.com/dLgoKJ0.png" group-title="Music",ONE1 Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
+#EXTINF:-1 tvg-id="One.de" tvg-logo="https://i.imgur.com/U1D7l6K.png" group-title="Undefined",One (1080p) [Geo-blocked]
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="OneAdria.de" tvg-logo="https://i.imgur.com/NYkMamU.png" group-title="Music",One Adria (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 2 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen3.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 3 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen4.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 4 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PearlTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24524-2.png" group-title="Undefined",Pearl TV (2160p) [Not 24/7]
+https://ythls.onrender.com/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="Undefined",Phoenix (720p) [Geo-blocked]
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimalsGermany.de" tvg-logo="https://i.imgur.com/SMQxSV6.png" group-title="Documentary",Pluto TV Animals (Germany) (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767ae7b456c8cf265ce922&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=301&terminate=false&userId=
+#EXTINF:-1 tvg-id="AutoMotorundSport.de" tvg-logo="https://i.imgur.com/GGIV06c.png" group-title="Auto",Pluto TV Auto Motor Sport (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
+#EXTINF:-1 tvg-id="BeybladeBurstGermany.de" tvg-logo="https://i.imgur.com/yaHE8Uj.png" group-title="Kids",Pluto TV Beyblade Burst Nick (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b551ddcd25500072c4dad&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="BlazeunddieMonsterMaschinenNickGermany.de" tvg-logo="https://i.imgur.com/mMj4wOj.png" group-title="Kids",Pluto TV Blaze Nick (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b60419becf60008c841fd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ebc579c0-0712-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="BluesCluesGermany.de" tvg-logo="https://i.imgur.com/sHRHnzf.png" group-title="Kids",Pluto TV Blue's Clues Nick (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedy Central (Made in Germany) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4948418101147596fd6c5a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d4948418101147596fd6c5a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=91083755-0728-11eb-aeab-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedy Central (Made in Germany) (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4948418101147596fd6c5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedy Central (Made in Germany)+ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7b8923fc302800079e4f4f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e7b8923fc302800079e4f4f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ee59b770-663e-4463-bf9b-3f7c374fbc39&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVHistoryGermany.de" tvg-logo="https://i.imgur.com/c2s1EA3.png" group-title="Documentary",Pluto TV History (Germany) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767b1c126c65d0a307355f&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=302&terminate=false&userId=
+#EXTINF:-1 tvg-id="iCarlyGermany.de" tvg-logo="https://i.imgur.com/EHLHuNo.png" group-title="Kids",Pluto TV iCarly (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b580a233dc90007f0cb9d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c53d6ac-a6d2-4c2c-9403-6101f770b205&terminate=false&userId=
+#EXTINF:-1 tvg-id="iCarlyPlusGermany.de" tvg-logo="https://i.imgur.com/Wy73ywD.png" group-title="Kids",Pluto TV iCarly+ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2cb9f5b291000773807a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2cb9f5b291000773807a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c128fa6-7ec2-4a50-a81b-37f9e8c1e48f&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVInsideGermany.de" tvg-logo="https://i.imgur.com/h6cmLzR.png" group-title="Documentary",Pluto TV Inside (Germany) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767b4889bca2ce7b73ef2e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=303&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVMoviesGermany.de" tvg-logo="https://i.imgur.com/P9Zoa9L.png" group-title="Movies",Pluto TV Movies (Germany) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=50&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV MTV (German) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5caf325764025859afdd6c4d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1b711cc8-0587-11eb-9df2-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV MTV (German) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcebe53d352330009e56f5b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dcebe53d352330009e56f5b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b3be0889-389b-4ef9-a876-b3d589aa6cd9&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV MTV Cribs (Germany) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea815a515d149000748ee9b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea815a515d149000748ee9b&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8&terminate=false&userId=
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-logo="https://i.imgur.com/yVKIUDS.png" group-title="Documentary",Pluto TV N24 Doku (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Nick (Germany) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ede448d3d50590007a4419e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=261&terminate=false&userId=
+#EXTINF:-1 tvg-id="EmmaeinfachmagischNickGermany.de" tvg-logo="https://i.imgur.com/AYlN745.png" group-title="Kids",Pluto TV Nick Emma einfach magisch! (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f4796368174910007756454&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=db62fa8b-15bd-11eb-bde1-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="NickRewindGermany.de" tvg-logo="https://i.imgur.com/Bw8rdAb.png" group-title="Kids",Pluto TV Nick Rewind (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ed106ce4bf2e80007700bb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1f8c3bd8-0715-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Nick Rewind+ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2bcd0fadc30007b4863b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2bcd0fadc30007b4863b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=26a921c8-2009-4fa8-9d4f-3edbe18a97f7&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVSitcomsGermany.de" tvg-logo="https://i.imgur.com/YzrUL8P.png" group-title="Comedy",Pluto TV Sitcoms+ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5cd149f021cb6c55e258bbe8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=375760ce-ac7c-4306-818c-98562edc8da5&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVSpongeBobSchwammkopf.de" tvg-logo="https://i.imgur.com/8gR5jPf.png" group-title="Kids",Pluto TV SpongeBob Schwammkopf (Germany) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d00e8adaab96b5635b2a005&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=248&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVSurfGermany.de" tvg-logo="https://i.imgur.com/xB6mLeg.png" group-title="Sports",Pluto TV Surf (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
+#EXTINF:-1 tvg-id="TeenNickGermany.de" tvg-logo="https://i.imgur.com/VTWleRc.png" group-title="Kids",Pluto TV TeenNick (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVictorious.de" tvg-logo="https://i.imgur.com/541iubn.png" group-title="Undefined",Pluto TV Victorious (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PUNKTum.de" tvg-logo="https://i.imgur.com/j1RHJQm.png" group-title="Undefined",PunktUM (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC2Germany.de" tvg-logo="https://i.imgur.com/27G7AoH.png" group-title="Shop",QVC2 (Deutsch) (540p)
+http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="QVCGermany.de" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC Germany (720p)
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="QVCStyleGermany.de" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="Shop",QVC Style (Deutsch) (540p)
+http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="Radio21TV.de" tvg-logo="https://i.imgur.com/u8OhwI1.png" group-title="Music",Radio 21 TV (720p)
+https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioBremenFernsehen.de" tvg-logo="https://i.imgur.com/wsTOcuX.png" group-title="Undefined",Radio Bremen Fernsehen (1080p) [Geo-blocked]
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Music",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesGermany.de" tvg-logo="https://i.imgur.com/IPVXJ9y.png" group-title="Movies",Rakuten Action Movies Germany (720p)
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesGermany.de" tvg-logo="https://i.imgur.com/ZeKvu3l.png" group-title="Movies",Rakuten Comedy Movies Germany (720p)
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightGermany.de" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="Movies",Rakuten Spotlight Germany (720p)
+https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Top Free Germany (720p)
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Shows Austria (720p)
+https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Shows Germany (720p)
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RAN1.de" tvg-logo="https://i.imgur.com/zRg2BEa.png" group-title="Undefined",Ran 1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RBBBerlin.de" tvg-logo="https://i.imgur.com/1h6Kfli.png" group-title="Undefined",RBB Berlin (1080p) [Geo-blocked]
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+#EXTINF:-1 tvg-id="RBBBrandenburg.de" tvg-logo="https://i.imgur.com/mxmQmfQ.png" group-title="Undefined",RBB Brandenburg (1080p) [Geo-blocked]
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-id="RBW.de" tvg-logo="https://i.imgur.com/A0UKdix.png" group-title="Undefined",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-logo="https://i.imgur.com/DvxfBTE.png" group-title="General",RecordTV Europa (720p) [Geo-blocked]
+https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
+#EXTINF:-1 tvg-id="RegioTVBodensee.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="Undefined",Regio TV Bodensee (1080p)
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVSchwaben.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="Undefined",Regio TV Schwaben (1080p)
+https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVStuttgart.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="Undefined",Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RennsteigTV.de" tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png" group-title="Undefined",Rennsteig TV (720p)
+http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RFHHarz.de" tvg-logo="https://i.imgur.com/CsLAH85.png" group-title="Undefined",RFH Harz (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de" tvg-logo="https://i.imgur.com/8DZa7in.png" group-title="Undefined",RFH TV (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RFORosenheim.de" tvg-logo="https://i.imgur.com/e5BIHz8.png" group-title="Undefined",RFO Rosenheim (1080p)
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RheinMainTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24539-1.png" group-title="Undefined",RheinMain TV (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RiC.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24540-1.png" group-title="Undefined",RiC (1080p) [Not 24/7] [Geo-blocked]
+https://ythls.onrender.com/channel/UCobxrBytMqM7pWZslb_UEHA.m3u8
+#EXTINF:-1 tvg-id="RNF.de" tvg-logo="https://i.imgur.com/CRk9usN.png" group-title="Undefined",RNF (1080p)
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RockAntenne.de" tvg-logo="https://i.imgur.com/nvFXRjH.png" group-title="Undefined",Rock Antenne [Not 24/7]
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-id="RocklandTV.de" tvg-logo="https://i.imgur.com/6ve1FTN.png" group-title="Undefined",Rockland TV (480p) [Geo-blocked]
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDE.de" tvg-logo="https://i.imgur.com/v1PIbB2.png" group-title="News",RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen1.de" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="Undefined",Saarland Fernsehen 1 (1080p)
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen2.de" tvg-logo="https://i.imgur.com/Yv7j4ia.png" group-title="Undefined",Saarland Fernsehen 2 (720p) [Not 24/7]
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenEins.de" tvg-logo="https://i.imgur.com/2EXNdd8.png" group-title="Undefined",Sachsen Eins (1080p)
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenVogtland.de" tvg-logo="https://i.imgur.com/s6LluNe.png" group-title="Undefined",Sachsen Fernsehen Vogtland (1080p)
+https://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SalveTV.de" tvg-logo="https://i.imgur.com/GhKjHMG.png" group-title="Undefined",Salve TV (720p)
+https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
+#EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-logo="https://i.imgur.com/p0W050H.png" group-title="Undefined",Schlager Deluxe (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-id="Seenluft24.de" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="Undefined",Seenluft24 (1080p)
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="ServusTVGermany.de" tvg-logo="https://i.imgur.com/yRKZCUL.png" group-title="Movies",ServusTV Deutschland (720p) [Geo-blocked]
+https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8
+#EXTINF:-1 tvg-id="SonnenklarTV.de" tvg-logo="https://i.imgur.com/g4QeXwF.png" group-title="Undefined",Sonnenklar TV (1080p)
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 tvg-id="SonusFM.de" tvg-logo="https://i.imgur.com/h29rUcG.png" group-title="Undefined",Sonus FM Alemania (1080p) [Not 24/7]
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTV.de" tvg-logo="https://i.imgur.com/1hNgHbB.png" group-title="Religious",Sophia TV (720p)
+https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTVEspanol.de" tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="Undefined",Sophia TV Español (720p)
+https://www.onairport.live/sophiatv-es-live/smil:sophia-tv-es.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport1.de" tvg-logo="https://i.imgur.com/Tsjt7v9.png" group-title="Sports",Sport 1 (1080p) [Geo-blocked]
+https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/512px-SR_Fernsehen.svg.png" group-title="Undefined",SR Fernsehen (720p)
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-id="SRF.de" tvg-logo="https://i.imgur.com/92XNBmr.png" group-title="General",SRF (720p)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" group-title="Undefined",SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de" tvg-logo="https://i.imgur.com/nEqGaWW.png" group-title="Undefined",SWR Fernsehen Baden-Württemberg (720p) [Geo-blocked]
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de" tvg-logo="https://i.imgur.com/h44EBSJ.png" group-title="Undefined",SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked]
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-id="Sylt1.de" tvg-logo="https://i.imgur.com/2Wh8OS5.png" group-title="Undefined",Sylt1 (404p)
+https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="Undefined",Tagesschau 24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="TastemadeGermany.de" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade Deutschland (720p)
+https://tastemade-de-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeinsTV.de" tvg-logo="https://i.imgur.com/gMMk5TU.png" group-title="Undefined",Teins TV (1080p) [Not 24/7]
+https://live1.markenfunk.com/t1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",test Channel 1 (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/test-1/stream_de.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",test Channel 3 (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/test-3/stream_de.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",test Channel 4 (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/test-4/stream_de.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",test Channel 5 (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/test-5/stream_de.m3u8
+#EXTINF:-1 tvg-id="TideTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" group-title="Undefined",Tide TV (1080p)
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tiviTURK.de" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="Undefined",tiviTÜRK (720p) [Not 24/7]
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Series",Tlnovelas Europa (720p)
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Toonami (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="TV38SudostNiedersachen.de" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="Undefined",TV38 Südost-Niedersachen (1080p)
+https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="TVBerlin.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tv.berlin_2009.svg/512px-Tv.berlin_2009.svg.png" group-title="Undefined",TV Berlin (720p)
+https://live2.telvi.de/hls/tvberlin.m3u8
+#EXTINF:-1 tvg-id="TVIngolstadt.de" tvg-logo="https://i.imgur.com/Ymh11VV.png" group-title="Undefined",TV Ingolstadt (1080p)
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMainfranken.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="Undefined",TV Mainfranken (1080p) [Not 24/7]
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMittelrhein.de" tvg-logo="https://i.imgur.com/3Zic2AR.png" group-title="Undefined",TV Mittelrhein (720p)
+https://live2.telvi.de/hls/tvm_hd720.m3u8
+#EXTINF:-1 tvg-id="TVOberfranken.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24580-1.png" group-title="Undefined",TV Oberfranken (TVO) (1080p) [Not 24/7]
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.de" tvg-logo="https://i.imgur.com/Gg6d4Jb.png" group-title="Undefined",TVA (1080p) [Not 24/7]
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="Music",Volksmusik TV (1080p)
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="WDR1Live.de" tvg-logo="https://i.imgur.com/RbqDMYx.png" group-title="Undefined",WDR 1 Live (720p)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenAachen.de" tvg-logo="https://i.imgur.com/EvZh6V3.png" group-title="Undefined",WDR Fernsehen Aachen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenBielefeld.de" tvg-logo="https://i.imgur.com/rhjEvwR.png" group-title="Undefined",WDR Fernsehen Bielefeld (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenBonn.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Bonn (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenDortmund.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Dortmund (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenDuisburg.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Duisburg (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenDusseldorf.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Düsseldorf (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenEssen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Essen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenKoln.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Köln (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenMunster.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Münster (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenSiegen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Siegen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenWuppertal.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Wuppertal (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy Europe (720p)
+https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Welt.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="News",WELT [Geo-blocked]
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:-1 tvg-id="WeltderWunderTV.de" tvg-logo="https://i.imgur.com/DLXssJe.png" group-title="Undefined",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-id="Wir24TV.de" tvg-logo="https://i.imgur.com/wvEtGOX.png" group-title="General",Wir24 TV [Geo-blocked]
+https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Sports",World of Freesports (720p)
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 tvg-id="WWTV.de" tvg-logo="https://i.imgur.com/MefGKaz.png" group-title="Undefined",WW TV (720p)
+https://live2.telvi.de/hls/wwtv_hd720.m3u8
+#EXTINF:-1 tvg-id="YOLTV.de" tvg-logo="https://i.imgur.com/rTBX6lS.png" group-title="General",Yol TV (720p)
+https://stream.yol.tv:9443/medialive/yol.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Undefined",ZDF (720p) [Geo-blocked]
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Undefined",ZDFinfo (720p) [Geo-blocked]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="Undefined",ZDFneo (720p) [Geo-blocked]
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Music",ZWEI2 Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
+#EXTINF:-1,BE: La Une FHD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/4863
+#EXTINF:-1,BE: La Trois FHD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/4862
+#EXTINF:-1,BE: RTL TVI FHD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/4867
+#EXTINF:-1,BE: Plug RTL FHD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/98393
+#EXTINF:-1,BE: Club RTL
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/4859
+#EXTINF:-1,BE: Tipik TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/98388
+#EXTINF:-1,BE: VTM FHD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/4877
+#EXTINF:-1,BE: VTM 2 FHD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/118316
+#EXTINF:-1,BE: VTM 3 FHD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/118317
+#EXTINF:-1,BE: VTM 4 FHD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/118318
+#EXTINF:-1,➤ Entertainment
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225782
+#EXTINF:-1,BE: NRJ Hits FHD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15519
+#EXTINF:-1,BE: TVO
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/142453
+#EXTINF:-1,BE: EÉN FHD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/4860
+#EXTINF:-1,BE: Vijf
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/4872
+#EXTINF:-1,BE: Canvas HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/4858
+#EXTINF:-1,BE: Zes
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/98406
+#EXTINF:-1,BE: AB3 HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/98401
+#EXTINF:-1,➤ Kids
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225783
+#EXTINF:-1,BE: VTM Kids
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/118319
+#EXTINF:-1,BE: Ketnet
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/66953
+#EXTINF:-1,SE: SVT 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16044
+#EXTINF:-1,SE: SVT 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16045
+#EXTINF:-1,SE: TV4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/238248
+#EXTINF:-1,SE: TV4 Guld
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/43195
+#EXTINF:-1,SE: TV4 Fakta
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16050
+#EXTINF:-1,SE: SVT 24
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16046
+#EXTINF:-1,SE: SVT Barn
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225368
+#EXTINF:-1,SE: TV3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/84765
+#EXTINF:-1,SE: TV6
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16052
+#EXTINF:-1,SE: TV8
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/84768
+#EXTINF:-1,SE: Kanal 11
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/84772
+#EXTINF:-1,SE: TV12
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16056
+#EXTINF:-1,SE: SVT Kunskapskanalen
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16057
+#EXTINF:-1,SE: SF-Kanalen
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/84752
+#EXTINF:-1,SE: KANAL 5
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16040
+#EXTINF:-1,SE: Sjuan 7
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16066
+#EXTINF:-1,SE: Kanal 9
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16041
+#EXTINF:-1,SE: Kanal 10
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213437
+#EXTINF:-1,➤ Films
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225619
+#EXTINF:-1,SE: TV4 Film
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/18159
+#EXTINF:-1,SE: C More First
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16062
+#EXTINF:-1,SE: C More Stars
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/84540
+#EXTINF:-1,SE: C More Hits
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/84538
+#EXTINF:-1,SE: Viasat Film Hits
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/43185
+#EXTINF:-1,SE: Viasat Film Premiere
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16067
+#EXTINF:-1,SE: Viasat Film Action
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16068
+#EXTINF:-1,SE: Viasat Film Family
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16069
+#EXTINF:-1,➤ Entertainment 
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225618
+#EXTINF:-1,SE: MTV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/18164
+#EXTINF:-1,SE: E! Entertainment
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/61351
+#EXTINF:-1,SE: TLC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/84761
+#EXTINF:-1,➤ Kids
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225616
+#EXTINF:-1,SE: Disney Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16078
+#EXTINF:-1,SE: Disney Junior
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213431
+#EXTINF:-1,SE: Cartoon Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/61341
+#EXTINF:-1,SE: Boomerang
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16079
+#EXTINF:-1,SE: Nickelodeon
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16083
+#EXTINF:-1,SE: Nick Jr
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213433
+#EXTINF:-1,SE: Nicktoons
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213432
+#EXTINF:-1,➤ EDU and DOC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225620
+#EXTINF:-1,SE: Discovery Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16087
+#EXTINF:-1,SE: Discovery Science
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213426
+#EXTINF:-1,SE: Discovery Investigation
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213427
+#EXTINF:-1,SE: Discovery World
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/61347
+#EXTINF:-1,SE: National Geographic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/84747
+#EXTINF:-1,SE: Nat Geo Wild
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213428
+#EXTINF:-1,SE: History
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/84742
+#EXTINF:-1,SE: H2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213424
+#EXTINF:-1,SE: BBC Earth
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213423
+#EXTINF:-1,SE: Viasat History
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213439
+#EXTINF:-1,SE: Viasat Nature
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213438
+#EXTINF:-1,SE: Viasat Explore
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/61336
+#EXTINF:-1,SE: C More Hockey
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16099
+#EXTINF:-1,SE: Viasat Series
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/228535
+#EXTINF:-1,SE: C More Series
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/232342
+#EXTINF:-1,NO: NRK 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/84522
+#EXTINF:-1,NO: NRK 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15798
+#EXTINF:-1,NO: NRK 3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15797
+#EXTINF:-1,NO: TV2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/84523
+#EXTINF:-1,NO: TV2 Livsstil
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213445
+#EXTINF:-1,NO: TV2 Norge
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/18168
+#EXTINF:-1,NO: TV2 Nyhetskanalen
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15800
+#EXTINF:-1,NO: TV2 Zebra
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/39150
+#EXTINF:-1,NO: Kanal 10
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213448
+#EXTINF:-1,NO: Fem
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15784
+#EXTINF:-1,NO: SF-Kanalen
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/39141
+#EXTINF:-1,NO: TV Norge
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16105
+#EXTINF:-1,➤ Entertainment
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225626
+#EXTINF:-1,NO: MTV Norge
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213449
+#EXTINF:-1,NO: TLC Norge
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213452
+#EXTINF:-1,NO: BBC Brit
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15790
+#EXTINF:-1,NO: VOX
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213444
+#EXTINF:-1,NO: Matkanalen
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213447
+#EXTINF:-1,➤ Films
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225629
+#EXTINF:-1,NO: FOX Norge
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213450
+#EXTINF:-1,NO: Max
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213443
+#EXTINF:-1,NO: TV6
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213442
+#EXTINF:-1,NO: Viasat Film Action
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/142455
+#EXTINF:-1,➤ Kids
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225625
+#EXTINF:-1,NO: Disney Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213461
+#EXTINF:-1,NO: Disney Junior
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213463
+#EXTINF:-1,NO: Boomerang
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213460
+#EXTINF:-1,NO: Cartoon Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213464
+#EXTINF:-1,NO: Nick Jr
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/79700
+#EXTINF:-1,NO: Nickelodeon
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15796
+#EXTINF:-1,NO: Nicktoons
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/39139
+#EXTINF:-1,➤ EDU and DOC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225627
+#EXTINF:-1,NO: Discovery Investigation
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213453
+#EXTINF:-1,NO: Animal Planet
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213456
+#EXTINF:-1,NO: Nat Geo Wild
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213458
+#EXTINF:-1,NO: History
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213459
+#EXTINF:-1,NO: Discovery Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/232339
+#EXTINF:-1,DK: DR 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15983
+#EXTINF:-1,DK: DR 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15984
+#EXTINF:-1,DK: DK 4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/153622
+#EXTINF:-1,DK: TV2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15996
+#EXTINF:-1,DK: TV2 News
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15997
+#EXTINF:-1,DK: TV3 Plus
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/238582
+#EXTINF:-1,DK: TV3 Max
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/238583
+#EXTINF:-1,DK: TV3+ Krimizonen
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213469
+#EXTINF:-1,DK: TV2 Bornholm
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15993
+#EXTINF:-1,DK: TV2 Lorry
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16035
+#EXTINF:-1,DK: TV2 Østjylland
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213468
+#EXTINF:-1,DK: TVS+
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213466
+#EXTINF:-1,➤ Entertainment
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225638
+#EXTINF:-1,DK: MTV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/61229
+#EXTINF:-1,DK: TV2 FRI
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15995
+#EXTINF:-1,DK: Kanal 4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15990
+#EXTINF:-1,DK: Kanal 5
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15991
+#EXTINF:-1,DK: Kanal 9
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15992
+#EXTINF:-1,DK: 6 Eren
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16028
+#EXTINF:-1,DK: TV3 Denmark
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16000
+#EXTINF:-1,DK: TLC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16022
+#EXTINF:-1,➤ Kids
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225637
+#EXTINF:-1,DK: Disney Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16014
+#EXTINF:-1,DK: Disney Junior
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/61225
+#EXTINF:-1,DK: Cartoon Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213479
+#EXTINF:-1,DK: Boomerang
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/61215
+#EXTINF:-1,DK: Nickelodeon
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16017
+#EXTINF:-1,DK: DR Ramasjang
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16004
+#EXTINF:-1,➤ Films
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225641
+#EXTINF:-1,DK: TV6
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16003
+#EXTINF:-1,DK: TV2 Zulu
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15999
+#EXTINF:-1,DK: C More Series
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/61218
+#EXTINF:-1,DK: Viasat Film Premiere
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16010
+#EXTINF:-1,DK: Viasat Film Hits
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16008
+#EXTINF:-1,➤ EDU and DOC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225639
+#EXTINF:-1,DK: Discovery Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213472
+#EXTINF:-1,DK: Discovery World
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213474
+#EXTINF:-1,DK: Animal Planet
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213476
+#EXTINF:-1,DK: History
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/213477
+#EXTINF:-1,DK: National Geographic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16021
+#EXTINF:-1,DK: TV2 Charlie
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15994
+#EXTINF:-1,GR: Alpha TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210043
+#EXTINF:-1,GR: Egnatia TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210086
+#EXTINF:-1,GR: Ellas TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210087
+#EXTINF:-1,GR: Epirus TV1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210089
+#EXTINF:-1,GR: ERT 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210091
+#EXTINF:-1,GR: ERT 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210092
+#EXTINF:-1,GR: ERT 3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210093
+#EXTINF:-1,GR: Samiaki
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210185
+#EXTINF:-1,GR: Kontra
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210122
+#EXTINF:-1,GR: TV 100
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210200
+#EXTINF:-1,GR: Star Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210189
+#EXTINF:-1,GR: Ionian Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210119
+#EXTINF:-1,GR: Open Beyond TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210179
+#EXTINF:-1,GR: Sigma Live
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210186
+#EXTINF:-1,GR: Alfa TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210042
+#EXTINF:-1,GR: Makedonia TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210127
+#EXTINF:-1,GR: Ant 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210045
+#EXTINF:-1,GR: Creta TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210076
+#EXTINF:-1,GR: Euronews
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210099
+#EXTINF:-1,➤ Entertainment
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225788
+#EXTINF:-1,GR: Skai
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210187
+#EXTINF:-1,GR: Mega TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210129
+#EXTINF:-1,GR: Fox Life
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210109
+#EXTINF:-1,GR: Filopoli TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210106
+#EXTINF:-1,GR: Baraza Music TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210050
+#EXTINF:-1,GR: Mad TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210125
+#EXTINF:-1,GR: ThrakiNet
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210193
+#EXTINF:-1,GR: Magic TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210126
+#EXTINF:-1,GR: NRG 91
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210178
+#EXTINF:-1,➤ EDU and DOC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225787
+#EXTINF:-1,GR: Discovery Science
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210080
+#EXTINF:-1,GR: National Geographic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210133
+#EXTINF:-1,GR: Viasat History
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210203
+#EXTINF:-1,GR: Viasat Nature
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210204
+#EXTINF:-1,GR: Vouli TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210207
+#EXTINF:-1,GR: Corfu Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210063
+#EXTINF:-1,GR: Xplore Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210210
+#EXTINF:-1,➤ Kids
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225790
+#EXTINF:-1,GR: Baby TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210049
+#EXTINF:-1,GR: Disney Junior
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210083
+#EXTINF:-1,GR: Smile TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210188
+#EXTINF:-1,GR: Village Cinema
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210205
+#EXTINF:-1,GR: Cosmote Cinema 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210064
+#EXTINF:-1,GR: Cosmote Cinema 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210065
+#EXTINF:-1,GR: Cosmote Cinema 3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210066
+#EXTINF:-1,GR: Fox
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210108
+#EXTINF:-1,GR: HBO
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210113
+#EXTINF:-1,GR: FilmBox Extra
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210104
+#EXTINF:-1,GR: Nova Cinema 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210141
+#EXTINF:-1,GR: Nova Cinema 3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210142
+#EXTINF:-1,GR: Nova Cinema 4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210143
+#EXTINF:-1,GR: Diavata TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/210078
+#EXTINF:-1,PK: AL-QURAN AL-KAREEM
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231309
+#EXTINF:-1,PK: AL SUNNAH Madinah Live HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231310
+#EXTINF:-1,PK: ARY QTV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231312
+#EXTINF:-1,PK: ARY NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231313
+#EXTINF:-1,PK: GEO NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231314
+#EXTINF:-1,PK: DUNYA NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231315
+#EXTINF:-1,PK: EXPRESS NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231316
+#EXTINF:-1,PK: SAMAA TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231317
+#EXTINF:-1,PK: 92 NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231318
+#EXTINF:-1,PK: HUM NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231319
+#EXTINF:-1,PK: GNN NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231320
+#EXTINF:-1,PK: BOL NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231321
+#EXTINF:-1,PK: 24 NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231322
+#EXTINF:-1,PK: NEWS ONE
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231323
+#EXTINF:-1,PK: NEO NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231324
+#EXTINF:-1,PK: DAWN NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231325
+#EXTINF:-1,PK: LAHORE NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231326
+#EXTINF:-1,PK: ABB TAKK NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231327
+#EXTINF:-1,PK: CITY 41 NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231328
+#EXTINF:-1,PK: CITY 42 NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231329
+#EXTINF:-1,PK: PTV NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231330
+#EXTINF:-1,PK: GEO TEZZ
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231331
+#EXTINF:-1,PK: K21 NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231332
+#EXTINF:-1,PK: CHANNEL 5
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231333
+#EXTINF:-1,PK: DIN NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231334
+#EXTINF:-1,PK: KHYBER NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231335
+#EXTINF:-1,PK: ARY DIGITAL
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231336
+#EXTINF:-1,PK: HUM SITARAY
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231338
+#EXTINF:-1,PK: GEO ENTERTAINMENT
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231339
+#EXTINF:-1,PK: GEO KAHANI
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231340
+#EXTINF:-1,PK: URDU 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231341
+#EXTINF:-1,PK: BOL ENTERTAINMENT
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231342
+#EXTINF:-1,PK: EXPRESS ENTERTAINMENT
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231343
+#EXTINF:-1,PK: ATV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231344
+#EXTINF:-1,PK: APLUS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231345
+#EXTINF:-1,PK: APNA CHANNEL
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231346
+#EXTINF:-1,PK: PLAY TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231347
+#EXTINF:-1,PK: PAKUS TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231348
+#EXTINF:-1,PK: PTV HOME
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231349
+#EXTINF:-1,PK: DISCOVERY PAKISTAN
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231350
+#EXTINF:-1,PK: AAJ ENTERTAINMENT
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231351
+#EXTINF:-1,PK: SEE TV HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231352
+#EXTINF:-1,PK: FILMAZIA
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231353
+#EXTINF:-1,PK: FILMAX
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231354
+#EXTINF:-1,PK: FILMWORLD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231355
+#EXTINF:-1,PK: RAAVI TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231356
+#EXTINF:-1,PK: ARUJ Entertainment TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231357
+#EXTINF:-1,PK: WASEB TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231358
+#EXTINF:-1,PK: KHYBER TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231359
+#EXTINF:-1,PK: DHARTI TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231360
+#EXTINF:-1,PK: AWAZ TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231361
+#EXTINF:-1,PK: NTV HOUSTON
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231362
+#EXTINF:-1,PK: ARY ZAUQ
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231363
+#EXTINF:-1,PK: HUM MASALA
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231364
+#EXTINF:-1,PK: DISCOVERY
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231365
+#EXTINF:-1,PK: ANIMAL PLANET
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231366
+#EXTINF:-1,PK: CARTOON NETWORK
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231367
+#EXTINF:-1,PK: ARY MUSIK
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231368
+#EXTINF:-1,PK: JALWA MUSIC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231369
+#EXTINF:-1,PK: 8XM MUSIC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231370
+#EXTINF:-1,PK: GEO SUPER
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231373
+#EXTINF:-1,PK: Madani Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231374
+#EXTINF:-1,PK: Minhaj TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231375
+#EXTINF:-1,PK: Public News
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231376
+#EXTINF:-1,PK : CAPITAL NEWS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231377
+#EXTINF:-1,PK: ASIA TV HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231378
+#EXTINF:-1,PK: HUM MASALA UK
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231379
+#EXTINF:-1,PK : Khyber Middle East
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231380
+#EXTINF:-1,PK : NOOR TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231381
+#EXTINF:-1,PK : Hidayat TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231382
+#EXTINF:-1,PK : Kay2 TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231383
+#EXTINF:-1,PK : Lollywood
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231384
+#EXTINF:-1,PK: TAG TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231385
+#EXTINF:-1,PK: Madani TV PAKISTAN
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231386
+#EXTINF:-1,PK: Kohenoor TV HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231387
+#EXTINF:-1,PK: PTV World
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231388
+#EXTINF:-1,PK: Islam channel uk
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231390
+#EXTINF:-1,PK: ARY Zindagi
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231391
+#EXTINF:-1,PK: TV One
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231392
+#EXTINF:-1,PK: Islam Channel Urdu
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231393
+#EXTINF:-1,PK: HUM TV EUROPE HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231394
+#EXTINF:-1,PK: ZINDAGI TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231395
+#EXTINF:-1,PK: Hadi TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231396
+#EXTINF:-1,PK: KTN News HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231397
+#EXTINF:-1,PK: KTN TV HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231398
+#EXTINF:-1,PK: King TV HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231399
+#EXTINF:-1,PK: Takbeer tv
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231400
+#EXTINF:-1,PK: IQRA Urdu
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231401
+#EXTINF:-1,PK: Sindh TV News
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231402
+#EXTINF:-1,PK: PTV GLOBAL
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231403
+#EXTINF:-1,PK: WASEB TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231404
+#EXTINF:-1,PK: GEO TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/231405
+#EXTINF:-1,RU: Perviy Kanal
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224158
+#EXTINF:-1,RU: Russia 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224238
+#EXTINF:-1,RU: Russia K
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224244
+#EXTINF:-1,RU: Russia 24
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224239
+#EXTINF:-1,RU: Russia RTR
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224246
+#EXTINF:-1,RU: CTC Love
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225513
+#EXTINF:-1,RU: TNT
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224258
+#EXTINF:-1,RU: TNT 4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224257
+#EXTINF:-1,RU: KBH TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225514
+#EXTINF:-1,RU: TB3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224253
+#EXTINF:-1,RU: 2X2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224275
+#EXTINF:-1,RU: MIR
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224219
+#EXTINF:-1,RU: Domashniy
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224174
+#EXTINF:-1,➤ Entertainment
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225833
+#EXTINF:-1,RU: Da Vinci Learning
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224171
+#EXTINF:-1,RU: Bloomberg
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224279
+#EXTINF:-1,RU: Fashion TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225506
+#EXTINF:-1,RU: Food Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225507
+#EXTINF:-1,RU: Fox
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224182
+#EXTINF:-1,RU: Fox Life
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225511
+#EXTINF:-1,RU: Home of HBO
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224176
+#EXTINF:-1,RU: Sony Sci-Fi
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224316
+#EXTINF:-1,RU: TLC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224319
+#EXTINF:-1,RU: Life
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224186
+#EXTINF:-1,RU: Nano
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224187
+#EXTINF:-1,RU: Home
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224189
+#EXTINF:-1,RU: 5 Kanal
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224193
+#EXTINF:-1,RU: Len 24
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224205
+#EXTINF:-1,RU: CNN
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224283
+#EXTINF:-1,RU: TBC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224255
+#EXTINF:-1,RU: CBS Reality 
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224282
+#EXTINF:-1,RU: Auto Plus
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224167
+#EXTINF:-1,RU: Tele Cafe
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224256
+#EXTINF:-1,RU: PRAVO
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224310
+#EXTINF:-1,➤ News
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225838
+#EXTINF:-1,RU: 24 Techno 
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224159
+#EXTINF:-1,RU: 24 Krim
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224274
+#EXTINF:-1,RU: Moskva 24
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224306
+#EXTINF:-1,RU: Astrakhan 24
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224276
+#EXTINF:-1,➤ Films
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225834
+#EXTINF:-1,RU: AMC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224161
+#EXTINF:-1,RU: Kino Cinema
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224197
+#EXTINF:-1,RU: Kino Hit
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224199
+#EXTINF:-1,RU: Kino Premium
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224202
+#EXTINF:-1,RU: Kino TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224203
+#EXTINF:-1,RU: TV 1000
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224262
+#EXTINF:-1,RU: TV 1000 Ruskoe Kino
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224263
+#EXTINF:-1,RU: TV 1000 Action
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224264
+#EXTINF:-1,RU: TV XXI (TV21)
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224265
+#EXTINF:-1,RU: VIP Comedy
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224266
+#EXTINF:-1,RU: VIP Premium
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224268
+#EXTINF:-1,RU: Premiera Cinema
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224236
+#EXTINF:-1,RU: Russia Detective
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224242
+#EXTINF:-1,RU: Russia Roman
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224245
+#EXTINF:-1,RU: Cinema
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224169
+#EXTINF:-1,RU: Millet
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224170
+#EXTINF:-1,RU: EuroKino
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224177
+#EXTINF:-1,RU: Dom Kino Premium
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224290
+#EXTINF:-1,RU: Komedija TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224300
+#EXTINF:-1,RU: MIR Seriala
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224304
+#EXTINF:-1,RU: RTVI Nashe Kino
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224313
+#EXTINF:-1,RU: Dom Kino
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225510
+#EXTINF:-1,RU: Filmbox
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224297
+#EXTINF:-1,RU: Kino Svidanie
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225512
+#EXTINF:-1,RU: Serial
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224314
+#EXTINF:-1,RU: Detektiv TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224284
+#EXTINF:-1,RU: Zee TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225508
+#EXTINF:-1,RU: Rodnoe Kino
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224312
+#EXTINF:-1,RU: Zvezda
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224322
+#EXTINF:-1,➤ Kids
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225835
+#EXTINF:-1,RU: Cartoon Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224168
+#EXTINF:-1,RU: Nickelodeon
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224227
+#EXTINF:-1,RU: Nickelodeon Junior
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224308
+#EXTINF:-1,RU: JWL TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224196
+#EXTINF:-1,RU: Detskij
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224285
+#EXTINF:-1,RU: Detskiy Mir
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224286
+#EXTINF:-1,RU: Gulli
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225509
+#EXTINF:-1,➤ Music
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225836
+#EXTINF:-1,RU: Muz TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224222
+#EXTINF:-1,RU: RU.TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224237
+#EXTINF:-1,RU: MTV Live
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224307
+#EXTINF:-1,RU: One Muz
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224230
+#EXTINF:-1,RU: TNT Music
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224259
+#EXTINF:-1,RU: Bridge
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224280
+#EXTINF:-1,RU: Bridge TV Deluxe
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224281
+#EXTINF:-1,RU: Europa Plus TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224295
+#EXTINF:-1,RU: MUSIC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224221
+#EXTINF:-1,RU: Music First
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224220
+#EXTINF:-1,RU: Russia Xtream
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224247
+#EXTINF:-1,RU: Shanson TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224315
+#EXTINF:-1,➤ EDU and DOC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225832
+#EXTINF:-1,RU: Animal Planet
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224166
+#EXTINF:-1,RU: Discovery Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224172
+#EXTINF:-1,RU: Discovery Showcase
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224289
+#EXTINF:-1,RU: Discovery Science
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224288
+#EXTINF:-1,RU: ID Xtra
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224299
+#EXTINF:-1,RU: Nat Geo Wild
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224225
+#EXTINF:-1,RU: National Geographic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224226
+#EXTINF:-1,RU: Travel Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224261
+#EXTINF:-1,RU: Dialogi o Rybalke
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224287
+#EXTINF:-1,RU: Viasat Explorer
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224269
+#EXTINF:-1,RU: Viasat History
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224270
+#EXTINF:-1,RU: Viasat Nature
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224271
+#EXTINF:-1,RU: History
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224188
+#EXTINF:-1,RU: Fightbox
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/224296
+#EXTINF:-1,RU: Box TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/225515
+#EXTINF:-1,DE: 13th Street HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13940
+#EXTINF:-1,DE: 3Sat HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14015
+#EXTINF:-1,DE: Animal Planet HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16504
+#EXTINF:-1,DE: Anixe HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/106248
+#EXTINF:-1,DE: ARD Alpha HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/107053
+#EXTINF:-1,DE: ARD Tagesschau 24 HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205793
+#EXTINF:-1,DE: Arte HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15876
+#EXTINF:-1,DE: Baby TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15848
+#EXTINF:-1,DE: Bild
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/209370
+#EXTINF:-1,DE: Cartoon Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15879
+#EXTINF:-1,DE: Classica
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15880
+#EXTINF:-1,DE: Comedy Central HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16507
+#EXTINF:-1,DE: Crime Investigation HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31225
+#EXTINF:-1,DE: Das Erste HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13957
+#EXTINF:-1,DE: Deluxe Music HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14026
+#EXTINF:-1,DE: Discovery Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13935
+#EXTINF:-1,DE: Disney Channel HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15881
+#EXTINF:-1,DE: DMax HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13953
+#EXTINF:-1,DE: DW Deutsche Welle
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31299
+#EXTINF:-1,DE: Euronews
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/106981
+#EXTINF:-1,DE: Fox HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13928
+#EXTINF:-1,DE: Heimat Kanal
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13992
+#EXTINF:-1,DE: HGTV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13982
+#EXTINF:-1,DE: History HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13978
+#EXTINF:-1,DE: Jukebox
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208364
+#EXTINF:-1,DE: Kabel Eins Classic HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/106255
+#EXTINF:-1,DE: Kabel Eins Doku
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16510
+#EXTINF:-1,DE: Kabel Eins HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16511
+#EXTINF:-1,DE: Kika HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13962
+#EXTINF:-1,DE: Kinowelt TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13997
+#EXTINF:-1,DE: Krone Hit
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16512
+#EXTINF:-1,DE: MDR Thüringen
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/152275
+#EXTINF:-1,DE: Motorvision
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13977
+#EXTINF:-1,DE: MTV Germany
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/69703
+#EXTINF:-1,DE: N-TV HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14019
+#EXTINF:-1,DE: N24 Doku
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/44728
+#EXTINF:-1,DE: National Geographic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16514
+#EXTINF:-1,DE: Nat Geo Wild
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13949
+#EXTINF:-1,DE: NDR
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/207866
+#EXTINF:-1,DE: Nick HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/106969
+#EXTINF:-1,DE: Nick Jr HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/69779
+#EXTINF:-1,DE: One HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16516
+#EXTINF:-1,DE: Phoenix
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14020
+#EXTINF:-1,DE: Pro7 Fun HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16518
+#EXTINF:-1,DE: ProSieben HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/106983
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13959
+#EXTINF:-1,DE: RBB
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/209385
+#EXTINF:-1,DE: Romance
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13965
+#EXTINF:-1,DE: RTL Crime HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13993
+#EXTINF:-1,DE: RTL HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13942
+#EXTINF:-1,DE: RTL Living HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13960
+#EXTINF:-1,DE: RTL Nitro HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/106987
+#EXTINF:-1,DE: RTL Passion HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13958
+#EXTINF:-1,DE: RTL Up HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/67447
+#EXTINF:-1,DE: RTL Zwei
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/191696
+#EXTINF:-1,DE: Sat 1 Emotions
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/67448
+#EXTINF:-1,DE: Sat 1 Gold HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13975
+#EXTINF:-1,DE: Sat 1 HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13956
+#EXTINF:-1,DE: Servus TV HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13948
+#EXTINF:-1,DE: Sixx HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13955
+#EXTINF:-1,DE: Sony AXN HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/69568
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13964
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/207865
+#EXTINF:-1,DE: Super RTL HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13954
+#EXTINF:-1,DE: SWR Fernsehen
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14016
+#EXTINF:-1,DE: SyFy HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13995
+#EXTINF:-1,DE: Tele 5 HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13989
+#EXTINF:-1,DE: TLC HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13994
+#EXTINF:-1,DE: Toggo Plus
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/69720
+#EXTINF:-1,DE: Universal HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13988
+#EXTINF:-1,DE: VOX HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13945
+#EXTINF:-1,DE: VOX Up
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/98400
+#EXTINF:-1,DE: Warner TV Comedy
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/138485
+#EXTINF:-1,DE: Warner TV Film
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13947
+#EXTINF:-1,DE: Warner TV Serie
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/134395
+#EXTINF:-1,DE: Welt der Wunder HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/152260
+#EXTINF:-1,DE: Welt HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16526
+#EXTINF:-1,DE: ZDF HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/13961
+#EXTINF:-1,DE: ZDF Info HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/44722
+#EXTINF:-1,DE: ZDF Neo HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14022
+#EXTINF:-1,IT: 20 Mediaset HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14713
+#EXTINF:-1,IT: Canale 5
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14601
+#EXTINF:-1,IT: Cartoonito
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14851
+#EXTINF:-1,IT: Cielo
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14710
+#EXTINF:-1,IT: Discovery Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/43909
+#EXTINF:-1,IT: Dmax
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14826
+#EXTINF:-1,IT: Giallo
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14722
+#EXTINF:-1,IT: Inter TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/156896
+#EXTINF:-1,IT: La 5
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14715
+#EXTINF:-1,IT: Mediaset Extra
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14711
+#EXTINF:-1,IT: Mediaset Italia 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14602
+#EXTINF:-1,IT: Mediaset Italia 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14712
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/37663
+#EXTINF:-1,IT: Rai 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14597
+#EXTINF:-1,IT: Rai 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14598
+#EXTINF:-1,IT: Rai 3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14599
+#EXTINF:-1,IT: Rai 4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14716
+#EXTINF:-1,IT: Rai 5
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14717
+#EXTINF:-1,IT: Rai Gulp
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14857
+#EXTINF:-1,IT: Rai Movie
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14719
+#EXTINF:-1,IT: Rai News 24
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14861
+#EXTINF:-1,IT: Rai Premium
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/43914
+#EXTINF:-1,IT: Rai Scuola
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14720
+#EXTINF:-1,IT: Rai Storia
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14837
+#EXTINF:-1,IT: Rai Yoyo
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14856
+#EXTINF:-1,IT: Rete 4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14600
+#EXTINF:-1,IT: Primafila 10 4K
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/43921
+#EXTINF:-1,IT: TG La 7
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14603
+#EXTINF:-1,IT: Tgcom 24
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14858
+#EXTINF:-1,IT: Top Crime
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/14707
+#EXTINF:-1,PT: Afro Music
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131068
+#EXTINF:-1,PT: AMC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131049
+#EXTINF:-1,PT: AXN
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131050
+#EXTINF:-1,PT: AXN Movies 
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131045
+#EXTINF:-1,PT: AXN White
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131044
+#EXTINF:-1,PT: Canal 180
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131089
+#EXTINF:-1,PT: Cancao Nova
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131090
+#EXTINF:-1,PT: Cartoon Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131063
+#EXTINF:-1,PT: Casa E Cozinha
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130945
+#EXTINF:-1,PT: Cinemundo
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131042
+#EXTINF:-1,PT: Crime Investigation 
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131094
+#EXTINF:-1,PT: Discovery Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131080
+#EXTINF:-1,PT: Disney Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131054
+#EXTINF:-1,PT: Disney Junior
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131055
+#EXTINF:-1,PT: Euronews
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130928
+#EXTINF:-1,PT: Fox Comedy
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131047
+#EXTINF:-1,PT: Fox Crime
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131046
+#EXTINF:-1,PT: Fox Life
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131052
+#EXTINF:-1,PT: Fox Movies
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131041
+#EXTINF:-1,PT: Fuel TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130976
+#EXTINF:-1,PT: Discovery Investigation
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131077
+#EXTINF:-1,PT: 24 Kitchen
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130946
+#EXTINF:-1,PT: Combat
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130974
+#EXTINF:-1,PT: Mezzo
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131075
+#EXTINF:-1,PT: Motorvision
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130975
+#EXTINF:-1,PT: National Geographic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131078
+#EXTINF:-1,PT: Nat Geo Wild
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131079
+#EXTINF:-1,PT: Nickelodeon
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131060
+#EXTINF:-1,PT: RTP 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130916
+#EXTINF:-1,PT: RTP 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130917
+#EXTINF:-1,PT: RTP 3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130918
+#EXTINF:-1,PT: RTP Açores
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131100
+#EXTINF:-1,PT: RTP Memoria
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131101
+#EXTINF:-1,PT: SIC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130919
+#EXTINF:-1,PT: SIC Caras
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130936
+#EXTINF:-1,PT: SIC Mulher
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130935
+#EXTINF:-1,PT: SIC Noticias
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130922
+#EXTINF:-1,PT: SIC Radical
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130934
+#EXTINF:-1,PT: SyFy
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131053
+#EXTINF:-1,PT: TPA International
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131114
+#EXTINF:-1,PT: TVCine Action
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131040
+#EXTINF:-1,PT: TVCine Edition
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131038
+#EXTINF:-1,PT: TVCine Emotion
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131039
+#EXTINF:-1,PT: TVCine Top
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/131037
+#EXTINF:-1,PT: TVI HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130920
+#EXTINF:-1,PT: TVI 24
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/130923
+#EXTINF:-1,US: A and E
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/149136
+#EXTINF:-1,US: Adult Swim
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135310
+#EXTINF:-1,US: Al Jazeera
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/149114
+#EXTINF:-1,US: AMC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/191692
+#EXTINF:-1,US: American Heroes
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32229
+#EXTINF:-1,US: Animal Planet
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/149198
+#EXTINF:-1,US: AWE
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/149143
+#EXTINF:-1,US: AXS TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/191720
+#EXTINF:-1,US: Baby TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208670
+#EXTINF:-1,US: BBC America
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32237
+#EXTINF:-1,US: Bet East
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/15861
+#EXTINF:-1,US: Bet Her
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32214
+#EXTINF:-1,US: Bet Jams
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32216
+#EXTINF:-1,US: Bet Soul
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32217
+#EXTINF:-1,US: Big Ten Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32240
+#EXTINF:-1,US: Bloomberg
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208671
+#EXTINF:-1,US: Boomerang
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32158
+#EXTINF:-1,US: Bravo
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208672
+#EXTINF:-1,US: Buzzr
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208673
+#EXTINF:-1,US: C-Span
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205817
+#EXTINF:-1,US: Cartoon Network East
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/159863
+#EXTINF:-1,US: CBS News
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/68035
+#EXTINF:-1,US: Cheddar News
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208676
+#EXTINF:-1,US: CMC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208679
+#EXTINF:-1,US: CMT HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32204
+#EXTINF:-1,US: CNBC World
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208680
+#EXTINF:-1,US: CNN
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/69284
+#EXTINF:-1,US: Comedy Central
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32195
+#EXTINF:-1,US: Comet TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208681
+#EXTINF:-1,US: Cooking Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208683
+#EXTINF:-1,US: Court TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208684
+#EXTINF:-1,US: CW
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/191732
+#EXTINF:-1,US: Destination America
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208686
+#EXTINF:-1,US: Discovery Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32344
+#EXTINF:-1,US: Discovery Family
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/159811
+#EXTINF:-1,US: Discovery Life
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/68043
+#EXTINF:-1,US: Discovery Science
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32348
+#EXTINF:-1,US: Disney Channel HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32162
+#EXTINF:-1,US: Disney JR East
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32164
+#EXTINF:-1,US: Disney XD West
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32163
+#EXTINF:-1,US: E! Entertainment
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208688
+#EXTINF:-1,US: Epix
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208689
+#EXTINF:-1,US: Epix 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208690
+#EXTINF:-1,US: Epix Drive In
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208691
+#EXTINF:-1,US: Epix Hits
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32263
+#EXTINF:-1,US: Food Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208694
+#EXTINF:-1,US: Freeform Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32208
+#EXTINF:-1,US: Fuse
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208697
+#EXTINF:-1,US: FX
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208698
+#EXTINF:-1,US: FXX
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32309
+#EXTINF:-1,US: FYI
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32310
+#EXTINF:-1,US: Game Show Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208699
+#EXTINF:-1,US: Great American Country
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208702
+#EXTINF:-1,US: Grit TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/191706
+#EXTINF:-1,US: H2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208703
+#EXTINF:-1,US: Hallmark Drama
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32127
+#EXTINF:-1,US: Hallmark Movies Mysteries
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32128
+#EXTINF:-1,US: HBO 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32130
+#EXTINF:-1,US: HBO Comedy
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32132
+#EXTINF:-1,US: HBO
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32129
+#EXTINF:-1,US: HBO Family
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32135
+#EXTINF:-1,US: HBO Latino
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16012
+#EXTINF:-1,US: HBO Signature
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/27728
+#EXTINF:-1,US: HBO Zone
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/65111
+#EXTINF:-1,US: Heroes And Icons
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208704
+#EXTINF:-1,US: HGTV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32315
+#EXTINF:-1,US: History Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208705
+#EXTINF:-1,US: HLN
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32317
+#EXTINF:-1,US: Discovery Investigation
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/159853
+#EXTINF:-1,US: IFC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208708
+#EXTINF:-1,US: Ion TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208711
+#EXTINF:-1,US: LifeTime
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208714
+#EXTINF:-1,US: Lifetime Movie Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/159794
+#EXTINF:-1,US: Logo
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208715
+#EXTINF:-1,US: Longhorn Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/28405
+#EXTINF:-1,US: Me TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208718
+#EXTINF:-1,US: MLB Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/28476
+#EXTINF:-1,US: Motor Trend
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32332
+#EXTINF:-1,US: MSNBC HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32201
+#EXTINF:-1,US: MTV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/191700
+#EXTINF:-1,US: MTV 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/191701
+#EXTINF:-1,US: MTV Classic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/149153
+#EXTINF:-1,US: National Geographic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/159745
+#EXTINF:-1,US: Nat Geo Wild
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32340
+#EXTINF:-1,US: NBCSN
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208720
+#EXTINF:-1,US: NESN Plus
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/68062
+#EXTINF:-1,US: Newsmax TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208725
+#EXTINF:-1,US: NewsY
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208727
+#EXTINF:-1,US: NFL Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/43496
+#EXTINF:-1,US: NICK JR
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/159756
+#EXTINF:-1,US: Nick Music
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/159852
+#EXTINF:-1,US: Nickelodeon
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32166
+#EXTINF:-1,US: Nicktoons
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32167
+#EXTINF:-1,US: One America News
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208729
+#EXTINF:-1,US: Outdoor Channel HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32364
+#EXTINF:-1,US: Outside TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208730
+#EXTINF:-1,US: Ovation
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208731
+#EXTINF:-1,US: OWN HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32367
+#EXTINF:-1,US: Paramount Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208732
+#EXTINF:-1,US: PBS Kids
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/43497
+#EXTINF:-1,US: POP
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32377
+#EXTINF:-1,US: Pursuit Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208736
+#EXTINF:-1,US: Revolt
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208741
+#EXTINF:-1,US: RFD TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208742
+#EXTINF:-1,US: SEC Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208744
+#EXTINF:-1,US: Showtime West
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135311
+#EXTINF:-1,US: Showtime 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135312
+#EXTINF:-1,US: Showtime Extreme
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32153
+#EXTINF:-1,US: Showtime Family Zone
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/158682
+#EXTINF:-1,US: Showtime Next
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32467
+#EXTINF:-1,US: Showtime Showcase
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32468
+#EXTINF:-1,US: Showtime Women
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/159873
+#EXTINF:-1,US: Smithsonian
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208745
+#EXTINF:-1,US: Stadium HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16263
+#EXTINF:-1,US: Starz Cinema
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32137
+#EXTINF:-1,US: Starz Comedy
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32138
+#EXTINF:-1,US: Starz East
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/39453
+#EXTINF:-1,US: Starz Edge
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/79697
+#EXTINF:-1,US: Starz Encore
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32149
+#EXTINF:-1,US: Starz Encore Action
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/159925
+#EXTINF:-1,US: Starz Encore Classic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32141
+#EXTINF:-1,US: Starz Encore Family
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/159766
+#EXTINF:-1,US: Starz Encore Suspense
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32143
+#EXTINF:-1,US: Starz Encore Westerns
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32140
+#EXTINF:-1,US: Starz West
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/159773
+#EXTINF:-1,US: Sundance TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205831
+#EXTINF:-1,US: SyFy HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32402
+#EXTINF:-1,US: TBS
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205834
+#EXTINF:-1,US: TCM
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205835
+#EXTINF:-1,US: Discovery Velocity
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205836
+#EXTINF:-1,US: TLC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205837
+#EXTINF:-1,US: TNT
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205839
+#EXTINF:-1,US: Travel Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32349
+#EXTINF:-1,US: Tru TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205840
+#EXTINF:-1,US: TV Land
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32412
+#EXTINF:-1,US: TVG
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205842
+#EXTINF:-1,US: Unimas
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/149132
+#EXTINF:-1,US: Universal Kids
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32168
+#EXTINF:-1,US: VH1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205843
+#EXTINF:-1,US: Viceland HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32207
+#EXTINF:-1,US: WE TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/205844
+#EXTINF:-1,US: Weather Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/208746
+#EXTINF:-1,UK: 4Seven
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16125
+#EXTINF:-1,UK: 5 Select
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16131
+#EXTINF:-1,UK: 5 Star
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16172
+#EXTINF:-1,UK: AMC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16178
+#EXTINF:-1,UK: Animal Planet
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16277
+#EXTINF:-1,UK: Asia Sony TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104074
+#EXTINF:-1,UK: BBC 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16133
+#EXTINF:-1,UK: BBC 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16135
+#EXTINF:-1,UK: BBC 3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16137
+#EXTINF:-1,UK: BBC CBeebies
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16204
+#EXTINF:-1,UK: BBC News
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104180
+#EXTINF:-1,UK: BBC World News
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16301
+#EXTINF:-1,UK: Blaze
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16271
+#EXTINF:-1,UK: Boomerang TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16195
+#EXTINF:-1,UK: Cartoonito
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16203
+#EXTINF:-1,UK: CBS Justice
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16191
+#EXTINF:-1,UK: Channel 4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104009
+#EXTINF:-1,UK: Channel 5
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16118
+#EXTINF:-1,UK: Chelsea TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16246
+#EXTINF:-1,UK: Comedy Central
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104188
+#EXTINF:-1,UK: Comedy Central Extra
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104187
+#EXTINF:-1,UK: Discovery Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104193
+#EXTINF:-1,UK: Discovery History
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16289
+#EXTINF:-1,UK: Discovery Science
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16284
+#EXTINF:-1,UK: Discovery Turbo
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16285
+#EXTINF:-1,UK: Disney Junior
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104147
+#EXTINF:-1,UK: E4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16126
+#EXTINF:-1,UK: Euronews
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16303
+#EXTINF:-1,UK: Film 4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104155
+#EXTINF:-1,UK: Home And Health
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104161
+#EXTINF:-1,UK: ITV 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104026
+#EXTINF:-1,UK: ITV 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104028
+#EXTINF:-1,UK: ITV 3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16111
+#EXTINF:-1,UK: ITV 4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/35156
+#EXTINF:-1,UK: ITV BE
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16115
+#EXTINF:-1,UK: LifeTime
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16270
+#EXTINF:-1,UK: More 4
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16128
+#EXTINF:-1,UK: MTV Classic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16320
+#EXTINF:-1,UK: National Geographic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16280
+#EXTINF:-1,UK: Nat Geo Wild
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16281
+#EXTINF:-1,UK: Nick Jr
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16199
+#EXTINF:-1,UK: Quest
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16132
+#EXTINF:-1,UK: Really
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16182
+#EXTINF:-1,UK: Red Bull TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16249
+#EXTINF:-1,UK: SyFy
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104238
+#EXTINF:-1,UK: Tiny Pop
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16205
+#EXTINF:-1,UK: Watch TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16184
+#EXTINF:-1,IRE: RTE News
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104055
+#EXTINF:-1,IRE: RTE One
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/104056
+#EXTINF:-1,CA: A and E
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77855
+#EXTINF:-1,CA: ABC Spark
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31959
+#EXTINF:-1,CA: AMC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77854
+#EXTINF:-1,CA: Animal Planet
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77853
+#EXTINF:-1,CA: CMT
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77848
+#EXTINF:-1,CA: Cooking Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77847
+#EXTINF:-1,CA: Cottage Life
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31985
+#EXTINF:-1,CA: CP24
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31986
+#EXTINF:-1,CA: DeJaView
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77845
+#EXTINF:-1,CA: Discovery Science
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32006
+#EXTINF:-1,CA: Disney XD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135307
+#EXTINF:-1,CA: Dtour
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77842
+#EXTINF:-1,CA: E! HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135308
+#EXTINF:-1,CA: Family Jr
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77841
+#EXTINF:-1,CA: FR Casa
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31952
+#EXTINF:-1,CA: FR Disney Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135353
+#EXTINF:-1,CA: FR Music Plus
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135359
+#EXTINF:-1,CA: FR Series+
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31957
+#EXTINF:-1,CA: FR Z Tele
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135368
+#EXTINF:-1,CA: FR Zeste
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/113934
+#EXTINF:-1,CA: FX HD
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32037
+#EXTINF:-1,CA: FXX
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135313
+#EXTINF:-1,CA: HBO
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32011
+#EXTINF:-1,CA: HBO 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77837
+#EXTINF:-1,CA: LifeTime
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77835
+#EXTINF:-1,CA: HLN
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135324
+#EXTINF:-1,CA: NBA TV Canada
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32052
+#EXTINF:-1,CA: OLN
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77832
+#EXTINF:-1,CA: Paramount Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135336
+#EXTINF:-1,CA: Showcase
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/77831
+#EXTINF:-1,CA: Slice
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32026
+#EXTINF:-1,CA: Teletoon
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/32027
+#EXTINF:-1,CA: TLC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135340
+#EXTINF:-1,CA: TVA Montréal
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135289
+#EXTINF:-1,CA: WGN
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/135348
+#EXTINF:-1,RO: Agro TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/126547
+#EXTINF:-1,RO: AMC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/36305
+#EXTINF:-1,RO: Animal Planet
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/145051
+#EXTINF:-1,RO: Antena 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31056
+#EXTINF:-1,RO: Antena 3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31057
+#EXTINF:-1,RO: Antena Stars
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31061
+#EXTINF:-1,RO: AXN
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/112214
+#EXTINF:-1,RO: AXN Black
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31063
+#EXTINF:-1,RO: AXN Spin
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/112215
+#EXTINF:-1,RO: AXN White
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31065
+#EXTINF:-1,RO: Bollywood TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31071
+#EXTINF:-1,RO: Cartoon Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/36304
+#EXTINF:-1,RO: CineMaraton
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/158248
+#EXTINF:-1,RO: Cinemax
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31079
+#EXTINF:-1,RO: Cinemax 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31080
+#EXTINF:-1,RO: Comedy Central
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/145058
+#EXTINF:-1,RO: Crime Investigation
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/145057
+#EXTINF:-1,RO: Digi 24
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31096
+#EXTINF:-1,RO: Digi Animal World
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31089
+#EXTINF:-1,RO: Digi Life
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31090
+#EXTINF:-1,RO: Digi World
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31095
+#EXTINF:-1,RO: Discovery Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31097
+#EXTINF:-1,RO: Disney Jr
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31102
+#EXTINF:-1,RO: Disney Romania
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31101
+#EXTINF:-1,RO: Diva 
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31103
+#EXTINF:-1,RO: DTX
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/126534
+#EXTINF:-1,RO: Duck TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/126551
+#EXTINF:-1,RO: E! Entertainment
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31105
+#EXTINF:-1,RO: Favorit
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31110
+#EXTINF:-1,RO: Fight Box
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31054
+#EXTINF:-1,RO: Film Cafe
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31111
+#EXTINF:-1,RO: Film Now
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31112
+#EXTINF:-1,RO: FilmBox Family
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/126549
+#EXTINF:-1,RO: FilmBox Premium
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/36298
+#EXTINF:-1,RO: Fishing and Hunting
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/112224
+#EXTINF:-1,RO: Food Network
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31115
+#EXTINF:-1,RO: Happy Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31117
+#EXTINF:-1,RO: HBO
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31120
+#EXTINF:-1,RO: HBO 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31118
+#EXTINF:-1,RO: HBO 3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31119
+#EXTINF:-1,RO: History Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31121
+#EXTINF:-1,RO: Hit Music
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31123
+#EXTINF:-1,RO: Hora
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/112226
+#EXTINF:-1,RO: Discovery Investigation
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31383
+#EXTINF:-1,RO: Jim Jam
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/126545
+#EXTINF:-1,RO: Kanal D
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31130
+#EXTINF:-1,RO: Kiss TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31132
+#EXTINF:-1,RO: Minimax
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31137
+#EXTINF:-1,RO: Mooz RO!
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/156895
+#EXTINF:-1,RO: MTV Dance
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31145
+#EXTINF:-1,RO: MTV Live
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/112236
+#EXTINF:-1,RO: Music Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31147
+#EXTINF:-1,RO: National Geographic
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31151
+#EXTINF:-1,RO: Nat Geo Wild
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31149
+#EXTINF:-1,RO: National 24 Plus
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/145068
+#EXTINF:-1,RO: National TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31152
+#EXTINF:-1,RO: Nick JR
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/16515
+#EXTINF:-1,RO: Paramount Channel
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31160
+#EXTINF:-1,RO: Prima TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31162
+#EXTINF:-1,RO: Pro 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31163
+#EXTINF:-1,RO: Pro Cinema
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31164
+#EXTINF:-1,RO: Pro Gold
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31165
+#EXTINF:-1,RO: Pro TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31166
+#EXTINF:-1,RO: Pro TV Internațional
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/144766
+#EXTINF:-1,RO: Publika TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31171
+#EXTINF:-1,RO: Realitatea Plus
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31174
+#EXTINF:-1,RO: Romania TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31175
+#EXTINF:-1,RO: Taraf TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31182
+#EXTINF:-1,RO: TLC
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31190
+#EXTINF:-1,RO: Travel Mix
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/20843
+#EXTINF:-1,RO: TV 1000
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31196
+#EXTINF:-1,RO: TV Paprika
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/36295
+#EXTINF:-1,RO: TVR 1
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/112230
+#EXTINF:-1,RO: TVR 2
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31203
+#EXTINF:-1,RO: TVR 3
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31204
+#EXTINF:-1,RO: Viasat Explore
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31158
+#EXTINF:-1,RO: Viasat History
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31215
+#EXTINF:-1,RO: Zu TV
+http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31218
