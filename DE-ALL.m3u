@@ -1,5 +1,3 @@
-magnet:?xt=urn:btih:9D3CAA20B1A2BBE74122C3A1F6DF38D5EAF74CE2&dn=Full.Game
-
 #EXTM3U url-tvg="https://raw.githubusercontent.com/TheSirTigerr/testiptv/main/EPG-Guide-20230726073521.xml"
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Undefined",1-2-3 TV (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
